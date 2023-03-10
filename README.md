@@ -5,21 +5,15 @@
 
 
 ### 💻 My technology stack
- - Python
- - Django, Swagger, RESTful API
- - Docker
- - PostgreSQL, Sqlite3
+ - Python, JS
+ - Django, Flask, FastAPI
+ - Docker, RabbitMQ
+ - PostgreSQL, MySQL, Elasticsearch
  - Linux
 
-### 🔭 I’m currently working on
- - graduation project
-
-### 🌱 I’m currently learning
- - Praktikum by yandex
- - Python
- - Django
- - SQL
- - English language
+### 🌱 I am working
+ - ZAO MNITI (Lead engineer)
+ - Praktikum by yandex (Review and Author of the tests)
 
 ### 📫 How to reach me:
  - Twitter: @RomanGerber3
