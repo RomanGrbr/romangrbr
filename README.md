@@ -12,7 +12,7 @@
  - Linux
 
 ### 🌱 I am working
- - ZAO MNITI (Lead engineer)
+ - MNITI (Moscow Scientific Research Television Institute - Lead engineer)
  - Praktikum by yandex (Review and Author of the tests)
 
 ### 📫 How to reach me:
