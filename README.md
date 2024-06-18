@@ -6,7 +6,7 @@
 
 ### 💻 My technology stack
  - Python, JS
- - Django, Flask, FastAPI
+ - Django, Flask, FastAPI, React
  - Docker, RabbitMQ
  - PostgreSQL, MySQL, Elasticsearch
  - Linux
